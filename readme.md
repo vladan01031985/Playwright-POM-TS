@@ -1,5 +1,6 @@
 # Playwright + TypeScript — Page Object Model Example
 Update Readme from your_github_actions
+![Playwright Tests](https://github.com/vladan01031985/Playwright-POM-TS/actions/workflows/playwright.yml/badge.svg)
 > A minimal, beginner-friendly POM starter that powers my YouTube series  
 > **“Learn QA Automation with Playwright Typescript”**.
 > https://www.youtube.com/watch?v=Gxn0i76jIJI&list=PLfw_nI4u_6WOuClIHl4Wl5V--ufJGin71
